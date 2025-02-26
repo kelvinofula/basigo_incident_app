@@ -21,7 +21,6 @@ Here is a demo of the project:
 ```md
 ![App Demo](https://github.com/kelvinofula/basigo_incident_app/blob/main/assets/demo.gif)
 ```
-Replace `your-username` and `your-repo` with your actual repository details.
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Install Flutter
