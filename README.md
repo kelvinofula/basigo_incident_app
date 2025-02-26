@@ -21,6 +21,7 @@ Here is a demo of the project:
 ```md
 ![App Demo](https://github.com/kelvinofula/basigo_incident_app/blob/main/assets/demo.gif)
 ```
+![til](https://github.com/kelvinofula/basigo_incident_app/blob/main/assets/demo.gif)
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Install Flutter
