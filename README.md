@@ -19,7 +19,7 @@ The application follows the **MVVM (Model-View-ViewModel)** architecture to ensu
 ## 📽️ Demo
 Here is a demo of the project:
 ```md
-![App Demo](https://github.com/kelvinofula/basigo-incident-app/blob/main/assets/demo.gif)
+![App Demo](https://github.com/kelvinofula/basigo_incident_app/blob/main/assets/demo.gif)
 ```
 Replace `your-username` and `your-repo` with your actual repository details.
 
@@ -34,7 +34,7 @@ If any issues appear, resolve them using the "Commonly Experienced Errors" secti
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/kelvinofula/basigo-incident-app.git
+git clone https://github.com/kelvinofula/basigo_incident_app.git
 cd your-repo
 ```
 
