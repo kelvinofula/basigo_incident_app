@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077288027529",
+    "project_id": "basi-go",
+    "storage_bucket": "basi-go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077288027529:android:0b4da4bd16277567ba8d58",
+        "android_client_info": {
+          "package_name": "com.example.basigo_incident_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7J10NW3SgDEnKRt_XwMVxmpLaEqBD4q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
